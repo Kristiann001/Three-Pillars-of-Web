@@ -1,0 +1,34 @@
+{
+    "animals": [
+        {
+            "id": "1",
+            "name": "Lion",
+            "description": "The King of the Savannah"
+        },
+        {
+            "id": "2",
+            "name": "Elephant",
+            "description": "The Biggest in the Savannah"
+        },
+        {
+            "id": "3",
+            "name": "Cheetah",
+            "description": "The Fastest in the Savannah"
+        },
+        {
+            "id": "4",
+            "name": "Giraffe",
+            "description": "The Tallest in the Savannah"
+        },
+        {
+            "id": "5",
+            "name": "Hippo",
+            "description": "The Fattest in the waters"
+        },
+        {
+            "id": "6",
+            "name": "Buffalo",
+            "description": "The Beast of the Savannah"
+        }
+    ]
+}
